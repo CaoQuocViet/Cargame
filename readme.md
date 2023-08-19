@@ -6,6 +6,8 @@ Follow these steps to experience the thrill of the Car Game:
 
 Clone the Repository: Clone this repository to your local machine using Git or download the source code as a ZIP file.
 
+git clone [repository_url]
+
 Compile the Code: Using a C++ compiler (such as g++), compile the source code to generate the executable file. For example:
 
 g++ CarGame.cpp -o CarGame
@@ -16,7 +18,7 @@ Run the Game: Execute the compiled binary to start playing the game:
 
 Gameplay Instructions
 Controls: Use the 'A' key to move the car to the left and the 'D' key to move it to the right.
-Objective: Avoid colliding with the oncoming traffic to survive and accumulate points.
+Objective: Avoid colliding with oncoming traffic to survive and accumulate points.
 Scoring: Successfully navigating past obstacles earns you points. Aim for a high score!
 Exit: Press the 'Esc' key to exit the game at any time.
 Features
