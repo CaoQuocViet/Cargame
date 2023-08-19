@@ -1,6 +1,9 @@
+
 Car Game Project
 Welcome to the Car Game project! This repository hosts an engaging console-based game that challenges players' reflexes and coordination. Navigate a car through a busy road, avoiding oncoming traffic to achieve the highest score possible. This project, implemented in C++, showcases dynamic obstacle generation, responsive controls, and an intuitive user interface.
-
+<p align="center">
+  <img src="Demo.png" alt="Car Game" width="600">
+</p>
 Getting Started
 Follow these steps to experience the thrill of the Car Game:
 
@@ -13,9 +16,9 @@ Compile the Code: Using a C++ compiler (such as g++), compile the source code to
 g++ CarGame.cpp -o CarGame
 
 Run the Game: Execute the compiled binary to start playing the game:
-
+``
 ./CarGame
-
+``
 Gameplay Instructions
 Controls: Use the 'A' key to move the car to the left and the 'D' key to move it to the right.
 Objective: Avoid colliding with oncoming traffic to survive and accumulate points.
