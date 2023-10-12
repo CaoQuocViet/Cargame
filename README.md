@@ -34,9 +34,6 @@ User-friendly Interface: Intuitive menus and clear instructions make the game ac
 Contribution
 This project was made possible by the contribution and dedication of individuals who are passionate about coding and gaming. If you're interested in contributing, feel free to submit pull requests or open issues.
 
-License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code according to the terms of the license.
-
 Contact
 For questions, suggestions, or feedback, please contact [Your Email Address]. We welcome any input that helps us improve the game and enhance the experience for players.
 
